@@ -162,3 +162,60 @@ display: flex;
 border-radius: 15px;
 padding: 30px;
 }
+.opinion-part{
+    margin: 40px 44px;
+}
+
+
+.opinion-ans{
+    text-align: center;
+    padding: 20px;
+    background-color:rgba(198, 228, 214, 1) ;
+    border: 2px solid  black;
+    border-radius: 4px;  
+}
+
+  .opinio-table{
+    margin: 30px 34px;
+  }
+  table, td, th {
+    border: 1px solid  rgba(14, 14, 14, 0.15);
+    padding: 30px;
+    text-align: start;
+  }
+  .table-tittle{
+    background-color: rgba(198, 228, 214, 1) ;
+    font-size: 20px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .qes{
+    font-size: 18px;
+    font-weight: 600;
+  }
+.btn-opinion{
+    background-color: rgba(198, 228, 214, 1);
+    padding: 15px 15px;
+    border-radius: 4px;
+    text-align: center;
+    border:2px solid black ;
+    font-size: 18px;
+}
+.btn-opinion-2{
+    background-color: rgba(9, 161, 92, 0.15);
+    padding: 15px 15px;
+    border-radius: 4px;
+    text-align: center;
+    border:2px solid black ;
+    font-size: 18px;
+}
+.news-card{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 10px;
+}
+.news-img {
+    border-radius: 25px;
+  }
