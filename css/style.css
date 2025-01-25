@@ -219,3 +219,26 @@ padding: 30px;
 .news-img {
     border-radius: 25px;
   }
+  .taka-cards{
+    display: flex;
+    justify-content: space-between;
+    gap:20px ;
+    padding:40px 40px ;
+    margin: 0 50px;
+  }
+  .taka-card{
+    font-size: 20px;
+    border-radius:24px ;
+    padding: 40px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+  }
+  .taka-card:hover{
+   background-color: rgba(198, 228, 214, 1);
+  }
+  input[type="text"]{
+    font-size: 18px;
+    color: rgba(67, 67, 67, 0.8);
+    padding: 20px 400px;
+    border: none;
+    border-bottom:1px solid rgba(14, 14, 14, 0.15) ;
+  }
