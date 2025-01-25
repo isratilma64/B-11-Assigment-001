@@ -153,3 +153,12 @@ display: flex;
     color: rgba(255, 194, 57, 1);
     
 }
+.dr-yunus-section {
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: 50px top ; 
+    border: 1px solid rgba(14, 14, 14, 0.15) ;
+
+border-radius: 15px;
+padding: 30px;
+}
